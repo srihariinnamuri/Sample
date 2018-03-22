@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite1" verbose="1" timeOut = 1000>
+  <test name="Nopackage">
+    <classes>
+       <class name="com.test.com.auto.App" />
+    </classes>
+  </test>
+ 
+</suite>
